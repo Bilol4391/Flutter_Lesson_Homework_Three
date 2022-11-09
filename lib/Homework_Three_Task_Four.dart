@@ -51,7 +51,7 @@ class ExFour extends StatelessWidget {
                           borderRadius: BorderRadius.all(Radius.circular(10))
                       ),
                       padding: EdgeInsets.only(left: 1, top: 5),
-                      margin: EdgeInsets.only(bottom: 10, right: 10, left: 170, top: 50),
+                      margin: EdgeInsets.only(bottom: 10, right: 10, left: 170, top: 1240),
                       height: 190,
                       width: 190,
                     ),
